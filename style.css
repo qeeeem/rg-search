@@ -1,0 +1,8 @@
+#results {
+    cursor: text;
+    height: 800px; /* Adjust the height as needed */
+    overflow-y: scroll;
+  }
+ #pageContainer button {
+    margin-right: 5px;
+  }
